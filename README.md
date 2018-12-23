@@ -1,6 +1,7 @@
 # PrettierAngularExample
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.2.
+This project is a quick example about how to use Prettier on an Angular project. Read more on:
+https://medium.com/@leonardomendoza/angular-7-prettier-99ffbec05363
 
 ## Development server
 
